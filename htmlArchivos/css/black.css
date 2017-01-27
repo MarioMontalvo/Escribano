@@ -1,0 +1,88 @@
+body {
+    background-color:  #ffffff;
+    font-family: "Computer Modern";
+    font-size: medium;
+    margin-top: 130px;
+    margin-bottom:  80px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+blockquote {
+    background: #e6f0ff;
+    border-left: 10px solid #66a3ff;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+    border-radius: 2px;
+}
+
+script {
+    color: #000000;
+    text-align: center;
+}
+
+autor {
+	text-align: center;
+	font-size: medium;
+	font-size: 100%;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+
+h2 {
+    color: #000000;
+    text-align: left;
+}
+
+h3 {
+    color: #000000;
+    text-align: left;
+}
+
+h4 {
+    color: #000000;
+    text-align: left;
+}
+
+h5 {
+    color: #000000;
+    text-align: left;
+}
+
+h6 {
+    color: #000000;
+    text-align: left;
+}
+
+p {
+    color:#333333;
+    text-align: justify;
+}
+
+.imgizq p, .imgder p{
+    text-align:center;
+    font-weight:bold;
+    font-size: 12px; 
+}
+
+
+.highlight .k { color: #0066ff; font-weight: bold }
+.highlight .s { color: #737373; font-weight: bold}
+.highlight .u { color: #ffb380; font-weight: bold}
+.highlight .t { color:  #00cc66; }
+
+
+
+fecha {
+    font: 120% Computer Modern;
+}
